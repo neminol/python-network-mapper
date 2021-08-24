@@ -4,5 +4,5 @@ Nmap, also known as Network Mapper is a free and open source tool used to scan I
 This script uses a Python module to enable Nmap in Python.
 
 # Usage
-``py -m pip install requirements.txt``\n
+``py -m pip install requirements.txt\n``
 ``py network-mapper.py``
